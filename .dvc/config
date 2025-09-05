@@ -1,5 +1,6 @@
 [core]
     remote = myremote
+    autostage = true
 ['remote "myremote"']
     url = s3://kc-savchenko/dvcstore
     region = ru-central1
